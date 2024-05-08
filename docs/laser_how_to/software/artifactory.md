@@ -53,6 +53,8 @@ install.packages(<PACKAGE>)
 
 ### Conda 
 
+{% include youtube.html id="VUbnEN059vk" %} 
+
 Select LASER_Conda_virtual in step 4 above.
 
 The code snippet will be generated directly below the password field in the 'Configure' tab.
@@ -72,6 +74,8 @@ conda install <PACKAGE>
 
 
 ### PyPI
+
+{% include youtube.html id="9VFZPU9eDdM" %} 
 
 Select LASER_PyPI_virtual in step 4 above.
 
