@@ -36,6 +36,8 @@ Now continue to follow the package repository specific instructions below:
 
 ### CRAN
 
+{% include youtube.html id="hwFEh8dmzbg" %} 
+
 Select LASER_CRAN_virtual in step 4 above.
 
 The code snippet will be generated directly below the password field in the 'Configure' tab.
