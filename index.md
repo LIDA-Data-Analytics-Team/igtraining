@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IG Training
+title: Modules
 nav_exclude: true
 ---
 
