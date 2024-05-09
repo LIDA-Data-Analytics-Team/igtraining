@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Data Protection
-parent: IG Training
+parent: Modules
 nav_order: 1
 ---
 
