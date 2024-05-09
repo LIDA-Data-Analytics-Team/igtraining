@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Data Protection
-parent: LIDA IG Training Modules
+parent: IG Training
 nav_order: 1
 ---
 
