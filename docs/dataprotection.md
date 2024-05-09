@@ -41,9 +41,9 @@ Let’s start by making sure that we all have a shared understanding of what is 
 The General Data Protection Regulation (GDPR) applies to all countries within the European Economic Area (EEA). The EEA comprises all countries in the EU plus Iceland, Norway, and Liechtenstein. The UK is no longer one of those countries but our domestic Data Protection law (the Data Protection Act 2018) is equal to the GDPR. This means that we can continue to send data to our EEA partners, and they can send it back to us. Where we want to share data with partners and collaborators outside the EEA, we might need to include extra conditions and clauses in our contracts to provide added assurance that their data protection practices are adequate.
 
 ### Implications for individuals and organizations
-**Rights to control:** The legislation gives individuals more rights to control and check how organizations use their personal information.
-**Fines for breaches:** The legislation means that organizations could face higher fines for breaches in data protection.
-**Security obligations:** Organizations will have even stricter obligations to keep the personal information that they hold safe and secure from loss and theft etc.
+**Rights to control:** The legislation gives individuals more rights to control and check how organizations use their personal information.  
+**Fines for breaches:** The legislation means that organizations could face higher fines for breaches in data protection.  
+**Security obligations:** Organizations will have even stricter obligations to keep the personal information that they hold safe and secure from loss and theft etc.  
 **Evidenced measures:** Organizations need to provide evidence of the measures they take to comply with the GDPR and the DPA 2018.
 
 There is more information and useful resources such as document templates on the University’s data protection website.
