@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Data Protection
-parent: Modules
 nav_order: 1
 ---
 
