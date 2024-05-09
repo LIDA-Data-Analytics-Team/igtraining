@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LASER Info
+title: IG Training
 nav_order: 2
 has_children: true
 ---
