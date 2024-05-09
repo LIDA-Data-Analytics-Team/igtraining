@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LASERdocs
+title: IG Training
 nav_exclude: true
 ---
 
