@@ -58,8 +58,8 @@ A simpler definition might be: Personal data means any information relating to a
 **The format of personal data:**
 The data protection legislation applies to data stored digitally, as a hard copy, or in visual or audio format. Any details that can be used to identify a person or which can be related to an identifiable person are classed as personal data and are covered by the Act.
 
-**Data Subject:** Data Subject is the term used to describe the individual whose personal data is being collected and used.
-**Data Controller:** The Data Controller determines the purposes and means of processing personal data.
+**Data Subject:** Data Subject is the term used to describe the individual whose personal data is being collected and used.  
+**Data Controller:** The Data Controller determines the purposes and means of processing personal data.  
 **Data Processor:** Data Processor means any person or organization who processes the data on behalf of the Data Controller.
 
 ### Special category data
