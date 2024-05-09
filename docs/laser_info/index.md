@@ -1,6 +1,5 @@
 ---
 layout: default
-title: IG Training
-nav_order: 2
+title: Modules
 has_children: true
 ---
