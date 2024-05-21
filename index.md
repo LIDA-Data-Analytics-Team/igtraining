@@ -4,7 +4,7 @@ title: IG Training
 nav_exclude: true
 pagination: true
 ---
-<div class="posts">
+<div class="docs">
   {% for post in paginator.posts %}
     <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
     <p>{{ post.excerpt }}</p>
