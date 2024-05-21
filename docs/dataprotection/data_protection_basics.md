@@ -2,6 +2,7 @@
 layout: default
 title: Data Protection Basics
 parent: Data protection
+grand_parent: IG Training
 nav_order: 2
 ---
 ##  Data protection basics
