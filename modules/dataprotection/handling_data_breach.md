@@ -2,7 +2,7 @@
 layout: default
 title: What to do if there is a personal data breach
 parent: Data Protection
-grand_parent: IG Training
+grand_parent: Modules
 nav_order: 4
 ---
 
