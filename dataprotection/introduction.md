@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Data Protection
+layout: default
+title: Introduction
 parent: IG Training
 nav_order: 1
 has-children: true
