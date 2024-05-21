@@ -2,6 +2,7 @@
 layout: page
 title: Day to day data protection
 parent: Data Protection
+grand_parent: IG Training
 nav_order: 3
 ---
 
