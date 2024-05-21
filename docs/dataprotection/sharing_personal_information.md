@@ -1,6 +1,6 @@
 ---
-layout: page
-title:Sharing personal information
+layout: default
+title: Sharing personal information
 parent: Data Protection
 grand_parent: IG Training
 nav_order: 7
@@ -73,43 +73,3 @@ In most circumstances you need to make the individual aware that the sharing is 
 - If you have sent the data to the incorrect recipient contact the IT Service Desk straightaway.
 - If you need to share special category personal data then encrypt any attachments.
 - Do not share information with somebody claiming to be a family member or friend of a student without gaining their consent.
-
-## Privacy by design and by default
-
-### What is privacy by design and by default?
-
-**Data privacy by design**
-
-Whilst IT has a role in providing the overarching security of electronic data, we are all responsible for ensuring the security of the data that we work with.
-
-Data privacy by design means having appropriate technical and organisational measures in place and building safeguards into processing to provide data security and protect the rights of data subjects.
-
-**Data privacy by default**
-
-Data privacy by default means having appropriate technical and organisational measures to ensure that, by default, only the personal data necessary for the purposes of the processing is processed.
-
-This allows the following data considerations to be controlled:
-- the amount of data collected
-- the extent of processing
-- the retention period of the data
-- the access rights to the data.
-
-### New types of processing
-
-The ICO recommend using Data Protection Impact Assessments (DPIAs) as an integral part of taking a privacy by design approach.
-
-Data protection impact assessment is a process which helps an organisation to identify and reduce the privacy risks associated with specific data usage. An effective DPIA is a "living document" which is reviewed and amended over time. The University has a template on the Data Protection website.
-
-The core principles of the DPIA process can be integrated with existing project and risk management policies.
-
-There is more detailed information on the Information Commissioner’s Office website (www.ico.org.uk).
-
-### Key points
-
-It's important to know the measures in place to protect personal and sensitive data.
-
-Furthermore, you might want to revisit this section later should you become involved in new projects, or if you think that some existing ways of working with data could be improved.
-
-## Test your knowledge
-The following questions are based on what we have covered in this module. Please complete this question in the microsfot form and send the screenshot of the answers where you have gained the pass mark of 80% and over.
-[Data Protection knowledge Test](https://forms.office.com/e/FEtEEDhff2)
