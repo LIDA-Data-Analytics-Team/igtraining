@@ -2,7 +2,7 @@
 layout: default
 title: Day to day data protection
 parent: Data Protection
-grand_parent: IG Training
+grand_parent: Modules
 nav_order: 3
 ---
 
