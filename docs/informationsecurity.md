@@ -9,15 +9,30 @@ nav_order: 2
 
 This module offers guidance on a variety of topics related to IT Security. We'll investigate the different types of information, the relevant legislation, why passwords are important and best practice when using the internet and email. We'll also explore where to store electronic information and the issue of viruses and other malicious software and mobile computing.
 
-* seed list
-{:toc}
-
+- [Introduction](#introduction)
+- [Information Security](#information-security)
+- [Legal Responsibilities](#legal-responsibilities)
+- [Access to Systems](#access-to-systems)
+- [Alternative Authentication](#alternative-authentication)
+- [Social Engineering](#social-engineering)
+- [The University and Data](#the-university-and-data)
+- [Storage Drives and University Data](#storage-drives-and-university-data)
+- [Information Handling](#information-handling)
+- [Protecting Data](#protecting-data)
+- [Internet Use](#internet-use)
+- [Email Use](#email-use)
+- [Viruses and Other Malware](#viruses-and-other-malware)
+- [Mobile Computing and Devices](#mobile-computing-and-devices)
+- [Information Security Incidents](#information-security-incidents)
+- [The Incident Reporting Procedure](#the-incident-reporting-procedure)
+- [Summary](#summary)
+- [Test Your Knowledge](#test-your-knowledge)
 
 ## Introduction
 
 Information resources are vital to the University of Leeds. Their confidentiality, integrity, and availability are essential in maintaining service levels, ensuring legal compliance, and safeguarding the public image and perception of the University. It is important that people are able to trust an organisation to act appropriately, both when obtaining and holding information. It is similarly important that information owned by other organisations made available under legal and legislative requirements is also treated appropriately. Every organisation that uses or provides information resources has a responsibility to maintain and safeguard them, and also to comply with the laws governing the processing and use of information and communications technology. Every organisation must take security very seriously, and that relies on all staff, postgraduate researchers and students playing their part. Everyone is personally responsible for following the requirements set out in the organisation's Information Protection Policy.
 
-## Types of Information
+### Types of Information
 
 Information comes in many formats:
 
@@ -36,7 +51,7 @@ Information security, by definition, is the protection from a loss of three thin
 - Integrity - So that the accuracy and completeness of information and processing methods are safeguarded.
 - Availability - So that authorised users have access to relevant information when required.
 
-## Why is Information Important?
+### Why is Information Important?
 
 Information is the lifeblood of any organisation, and without information of any sort the institution would cease to exist. It is essential that information is protected in order for the organisation to carry on performing its function. The Information Protection Policy is the document that specifies how the University of Leeds will apply information security. It outlines what risk level is accepted and the responsibilities of staff and every person or organisation covered by the policy.
 
@@ -112,23 +127,23 @@ When selecting a password, it is advisable not to:
 - reveal a password to anyone
 - store passwords in the Cloud (if you store passwords on your computer), without password protecting or encrypting the document.
 
-# Alternative Authentication
+## Alternative Authentication
 
 Many organisations including the University now use two-factor authentication alongside passwords, sending a code to a separate device for the user to enter as an extra layer of protection. The University of Leeds uses DUO Multi Factor Authentication. All users of University systems must be enrolled with DUO.
 
-# Social Engineering
+## Social Engineering
 
-## What is Social Engineering?
+### What is Social Engineering?
 
 Social engineering is a method used to get people to divulge confidential information, such as their username and password. In most cases, it can be performed over the phone, text, or email.
 
-## What to Look For
+### What to Look For
 
 - People asking questions of an unusual or personal nature, or even just asking for your username and password to perform a business function.
 - A social engineer that wants to get into a specific network can spend months building a relationship with a person in order to get personal information to log into that network.
 - A more common form of social engineering is where you will receive an email asking you to click on a link to update some information. The emails may look like they come from a bank or some such and can look very familiar, however, the link takes you to a fake website which will supply any details that are entered to unauthorized people. This is known as 'phishing’ and is a threat to you at home as well as in work.
 
-## How to Prevent It
+### How to Prevent It
 
 - Never give out your username or password to anyone over the phone or by email. If an administrator needs to be able to log on as you, they can use other methods.
 - Always be wary of divulging personal information to anyone.
@@ -136,11 +151,11 @@ Social engineering is a method used to get people to divulge confidential inform
 - Never click on links in unsolicited emails without checking out the sender.
 - Always verify with a known sender that they have sent you a link.
 
-# Locking Your Computer
+### Locking Your Computer
 
 University managed computers have an automatic timeout that will lock the computer. To help ensure your user account is not used by anyone else, you must always lock your computer when you are away from it. This is a simple, effective IT security measure you can do yourself. If you leave the computer do not wait for the automatic timeout, you must lock it yourself. The computer must also be closed down properly at the end of each day.
 
-# Choosing a Password
+### Choosing a Password
 
 Have a look at the passwords below and decide whether each is an example of a good or bad password.
 
@@ -158,7 +173,7 @@ From the list, the following adhere to the recommendations for selecting a secur
 
 If you are unsure about selecting a secure password, read this section again.
 
-# Remembering Your Password
+### Remembering Your Password
 
 Which of these tactics should you use to remember your password?
 
@@ -169,7 +184,7 @@ Which of these tactics should you use to remember your password?
 
 The correct answer is 3. Use a simple formula for calculating your password so only you know the correct combination of letters, symbols and numbers. Make sure you don't need to write it down anywhere to remember it.
 
-# The University and Data
+## The University and Data
 
 The loss of data can cost an organisation thousands of pounds through recovering the data and notifying individuals of personal data loss. Further impact includes the costs of:
 
@@ -194,11 +209,13 @@ Some of the types of data that may be held:
 
 It is important that these kinds of details remain secure, for everyone's benefit.
 
-# Storage Drives and University Data - Where to Store Information
+## Storage Drives and University Data
+
+### Where to Store Information
 
 To access the computer storage areas double click the This PC icon. If it is not a shortcut on the desktop, open the Start Menu to find it. There are usually a variety of file storage drives, as shown by the different icons on the screen. When you save documents, there are specific areas you should and should not use. The University’s Information Protection Policy will provide further information, including how to assess and categorise your data. Further guidance as to the storage of data can be found at dataprotection.leeds.ac.uk.
 
-## Why Use University Network Storage?
+### Why Use University Network Storage?
 
 University network storage is backed up regularly. This means the files stored here are available for use in business areas when needed.
 
@@ -208,25 +225,25 @@ University network storage is backed up regularly. This means the files stored h
 
 Network storage also allows for consistent access rights to be assigned to files, ensuring that only authorized people can access them. Confidential and personal information should be disposed of in a way that ensures it cannot be read or used when the organization does not require it anymore. This includes paper documents and electronic data. Further information on the disposal of information is available on the data protection website.
 
-# Information Handling
+## Information Handling
 
-## Risks of Using Removable Media
+### Risks of Using Removable Media
 
 Removable media can be used to store large amounts of data. However, it is generally small and portable and can be easily lost. Most data on removable media is unprotected and can be accessed by unauthorized people. For more information on the use of memory sticks, CDs and floppy disks see the University's Information Protection Policy.
 
-## Protecting Data
+### Protecting Data
 
 Many organizations have a 'clear desk' requirement whereby all desks must be cleared at the end of each day. However, data must not be left on desks unattended regardless of this. All personal or sensitive data should be locked away when not in use.
 
-## Post-it Notes
+### Post-it Notes
 
 Passwords and other items of sensitive information are sometimes written on post-it notes and even taped to the computer screen. Needless to say, you should never do this.
 
-## Unlocked Computers
+### Unlocked Computers
 
 Never leave your desk with your computer unlocked. This means someone could look at personal and sensitive files and emails, and even send an email as the person logged in.
 
-## USB Stick
+### USB Stick
 
 You should never leave a USB stick in the USB drive. This could contain personal or sensitive business data.
 
@@ -263,19 +280,19 @@ Some examples of internet misuse might be:
 - participating in online gaming during working hours
 - private use for commercial gain (for example, eBay).
 
-# Email Use
+## Email Use
 
-## Risks of Email
+### Risks of Email
 
 Email is legally treated the same as a company letter; it can be used to form contracts and conduct official business. Emails that contain unsuitable content can result in legal action against the organization. This includes email attachments. Email can be misused - resulting in lost productivity.
 
-## Using Email
+### Using Email
 
 Only your assigned University of Leeds email account can be used for the sending and receiving of University-business related emails. You must process your emails within the University managed Outlook application. Email is one of the primary communication channels within the University. All users are expected to check their mailbox box regularly, ensure permissions and rules are reviewed at least annually and data is held in line with retention schedules. Email accounts not used within a period of thirteen months will be lapsed unless IT are informed by the relevant line manager or supervisor of the long-term absence of the user. The use of University email accounts for sending and receiving personal emails should be avoided. University emails must not be used to register for personal service providers such as Amazon or utility suppliers.
 
-# Viruses and Other Malware
+## Viruses and Other Malware
 
-## What is Malware?
+### What is Malware?
 
 Malware is software that is designed to infiltrate or damage a computer system without the owner's consent; it is made up of the words 'malicious' and 'software'. The most familiar type of malware program is a computer virus. However, there are many other types of malware, for example:
 
@@ -285,7 +302,7 @@ Malware is software that is designed to infiltrate or damage a computer system w
 
 All of them will perform an action on your computer that you have not authorized. Sometimes this will be a malicious action such as deleting files and stealing information and at other times it will be to generate income for someone else.
 
-## How Infections Occur and How to Protect Against Them
+### How Infections Occur and How to Protect Against Them
 
 Infections can occur by:
 
@@ -293,11 +310,11 @@ Infections can occur by:
 - opening email attachments that are infected (although many organizations use virus scanners for email to reduce the risk of this method of infection)
 - opening infected files on removable media (for example MP3 players or CDs)
 
-## How You Can Protect Your Computer
+### How You Can Protect Your Computer
 
 - Always check the origin of attachments and removable media, such as USB sticks, before you open them - even those sent by people you know, as they may not know the file is infected.
 
-## What the University Does to Protect Your Computer
+### What the University Does to Protect Your Computer
 
 - University managed devices and systems have anti-virus software that is updated regularly
 - It provides reports and warnings when an infection occurs so immediate action can be taken
@@ -308,12 +325,12 @@ In the case of ‘Bring Your Own Device’ (BYOD) you must:
 - Update and patch the operating system and applications on your device
 - Install anti-virus software on your device and ensure it is up to date. Run a full scan of your device on a regular basis. Microsoft Security Essentials is free to use on Windows devices and can be set to automatically update.
 
-## What to Do If You Think Your Computer Is Infected
+### What to Do If You Think Your Computer Is Infected
 
 - You may not be able to work on your computer as the University's anti-virus software may lock you out.
 - Stop working and call Service Desk on 0113 343 3333
 
-## Infecting Your Computer
+### Infecting Your Computer
 
 Which of the following is most likely to infect your computer with a virus?
 
@@ -323,9 +340,9 @@ Which of the following is most likely to infect your computer with a virus?
 
 If you answered 1, inserting removable media from an unchecked source, then you were correct. The most likely source of a computer virus is by inserting removable media from an unchecked source. Around 50% of all virus infections come from removable media such as memory sticks that have been plugged into computers without adequate protection.
 
-# Mobile Computing and Devices
+## Mobile Computing and Devices
 
-## Mobile Computing Threats
+### Mobile Computing Threats
 
 Mobile computing offers new types of threats to corporate networks. It allows people access to the network from outside the protected working environment. Threats include:
 
@@ -334,19 +351,19 @@ Mobile computing offers new types of threats to corporate networks. It allows pe
 
 Mobile computing also means that information may be transmitted over an insecure public network.
 
-## Connection of Devices
+### Connection of Devices
 
-### What Can Be Connected to University Wired Network?
+#### What Can Be Connected to University Wired Network?
 
 The only devices that can be connected to the University wired network are corporately approved devices that have been risk assessed.
 
-### Why Can't Personal Equipment Be Connected to University Wired Network?
+#### Why Can't Personal Equipment Be Connected to University Wired Network?
 
 Personal equipment may not be protected to the same extent as University equipment. This means that accessing the University’s systems from a personal device could cause the introduction of viruses and other malware, or unauthorized software and files getting onto the network. This could in turn cause damage to the network and files and be extremely costly to recover. Confidential data can also be copied to an insecure device if it is connected to University equipment. This confidential data will not then be subject to the same control and is more likely to be accessed by unauthorized people.
 
-# Information Security Incidents
+## Information Security Incidents
 
-## What Are Incidents, and Why Report Them?
+### What Are Incidents, and Why Report Them?
 
 ### What is an Incident?
 
@@ -359,11 +376,11 @@ The University incident reporting procedure gives you more details of when and h
 It is a requirement to report all security incidents, so that they can be dealt with quickly and efficiently. Incident reports will also help to identify where future improvements in security can be made.
 
 
-# The Incident Reporting Procedure
+## The Incident Reporting Procedure
 
 An information security incident occurs when there is a compromise, potential compromise or unauthorized use of University data or physical assets.
 
-## Reporting
+### Reporting
 
 It is really important that all actual or suspected data security breaches are reported immediately.
 
@@ -372,7 +389,7 @@ The reporting process is as follows:
 - Monday to Friday between 8.00 am and 4.00 pm, on days when the University is open, telephone the IT Service Desk on 0113 343 3333
 - When the University is closed or outside the above hours, telephone Estates Security Services on telephone number 0113 343 5494
 
-## Breaching the Information Protection Policy
+### Breaching the Information Protection Policy
 
 Breaches of the Information Protection Policy could result in disciplinary action or even prosecution.
 
@@ -388,13 +405,13 @@ This could in turn lead to action in the civil courts resulting in fines for the
 
 Users could also be individually responsible for their actions, for example in copyright breach.
 
-## Other Consequences
+### Other Consequences
 
 The purpose of information security is to protect data, equipment, people and the business.
 
 If any users contravene University policies, then they risk their accreditation with a professional body and their employment prospects.
 
-# Summary
+## Summary
 
 During the course of the module, we have covered:
 
@@ -407,7 +424,7 @@ During the course of the module, we have covered:
 - mobile computing in the workplace
 - information security incidents and policy breaches
 
-# Test Your Knowledge
+## Test Your Knowledge
 
 The following questions are based on what we have covered in this module. Please complete this question in the microsfot form and send the screenshot of the answers where you have gained the pass mark of 80% and over.
 [Information Security Knowledge Check](https://forms.office.com/e/GFvLQYNRiG)
