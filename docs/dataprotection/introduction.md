@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Data Protection
-parebt: IG Training
+parent: IG Training
 nav_order: 1
 has-children: true
 ---
