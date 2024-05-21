@@ -48,3 +48,8 @@ The lawful bases for processing personal data are:
 6. The processing is necessary for the legitimate interests of the organisation (for example, where the University undertakes outreach work to its Alumni community).
 If you want to process special category data you must also identify an additional lawful basis; these include processing for research which is in the public interest and processing where measures have been put in place to protect the rights of the individuals whose data is being used. Speak with the Information Governance Team for more information.
 
+## Summary
+
+This section explores the requirement to let individuals know what data you are collecting about them and what you will do with it; information which is usually made available in a document called a privacy notice.
+It is a good idea to familiarise yourself with the Staff and Student Privacy Notices on the University Data Protection website. If you are wanting to gather personal data which is not covered in these notices then contact the Information Governance Team.
+
