@@ -23,7 +23,7 @@ pagination: true
 
 # Welcome
 
-These are the information governance training modules for non University of Leeds staff members who needs to be granted access to LASER TREs. Access to LASER is dependent on completion of the two modudles in this training - [Data Protection](https://lida-data-analytics-team.github.io/igtraining/modules/dataprotection.html) and [Information Security](https://lida-data-analytics-team.github.io/igtraining/modules/informationsecurity.html). 
+These are the information governance training modules for non University of Leeds staff members who needs to be granted access to LASER TREs. Access to LASER is dependent on completion of the two modudles in this training - [Data Protection](https://lida-data-analytics-team.github.io/igtraining/modules/dataprotection/) and [Information Security](https://lida-data-analytics-team.github.io/igtraining/modules/informationsecurity/). 
 
 Please use the navigation menu to select the module to complete them. There are knowledge check test to be completed at the end of each module. The pass mark to the test is 80%, you can take multiple attempts until you achive your desired score.
 
