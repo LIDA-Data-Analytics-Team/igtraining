@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Test
 parent: Data Protection
 grand_parent: IG Training
