@@ -8,7 +8,7 @@ nav_order: 4
 
 ## What to do if there is a personal data breach
 
-Your thoughts
+
 
 Meet Steve. His role means that he has access to a lot of personal and sensitive data.
 • Steve is early for a meeting, so he logs on to his laptop and catches up with some emails.
