@@ -2,7 +2,7 @@
 layout: default
 title: Mobile and computing devices
 parent: Information Security
-grand_parent: IG Training
+grand_parent: Modules
 nav_order: 8
 ---
 
