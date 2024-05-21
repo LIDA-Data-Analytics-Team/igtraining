@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Information Security
-parent: IG Training
+parent: Modules
 nav_order: 2
 has_children: true
 ---
