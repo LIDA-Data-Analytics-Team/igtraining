@@ -2,6 +2,7 @@
 layout: default
 title: IG Training
 nav_exclude: true
+pagination: true
 ---
 <div class="posts">
   {% for post in paginator.posts %}
