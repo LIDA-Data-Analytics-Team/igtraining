@@ -12,7 +12,10 @@ remote_theme: pmarsceill/just-the-docs
 license: GNU GPLv3
 license_url: https://www.gnu.org/licenses/gpl-3.0.html
 
-sass:
-  load_paths:
-    - _sass
+gems:
+  - jekyll-paginate
+
+paginate: 5 # Number of posts per page
+paginate_path: "/page:num/"
+
 
