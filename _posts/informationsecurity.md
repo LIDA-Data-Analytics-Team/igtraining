@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Information Secuirty
 nav_order: 2
 ---
