@@ -2,7 +2,7 @@
 layout: default
 title: Information security incidents
 parent: Information Security
-grand_parent: IG Training
+grand_parent: Modules
 nav_order: 9
 ---
 
