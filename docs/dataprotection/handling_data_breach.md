@@ -2,6 +2,7 @@
 layout: page
 title: What to do if there is a personal data breach
 parent: Data Protection
+grand_parent: IG Training
 nav_order: 4
 ---
 
