@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Data Protection
 nav_order: 1
 ---
