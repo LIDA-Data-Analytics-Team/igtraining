@@ -2,7 +2,7 @@
 layout: default
 title: Seeking Consent
 parent: Data Protection
-grand_parent: IG Training
+grand_parent: Modules
 nav_order: 6
 ---
 
