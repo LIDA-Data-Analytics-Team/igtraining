@@ -2,7 +2,7 @@
 layout: default
 title: Email use
 parent: Information Security
-grand_parent: IG Training
+grand_parent: Modules
 nav_order: 6
 ---
 
