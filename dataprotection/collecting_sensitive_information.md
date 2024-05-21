@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: defualt
 title: Collecting personal and special category (sensitive) information
 parent: Data Protection
 grand_parent: IG Training
