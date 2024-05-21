@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Seeking Consent
 parent: Data Protection
 grand_parent: IG Training
