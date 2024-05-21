@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: What to do if there is a personal data breach
 parent: Data Protection
 grand_parent: IG Training
