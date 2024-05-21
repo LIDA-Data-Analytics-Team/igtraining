@@ -12,10 +12,21 @@ nav_order: 1
 
 Welcome to the University of Leeds Data Protection module. This is for staff, postgraduate researchers, contractors, and visitors who have access to University information. The module should take approximately 30-40 minutes to complete.
 
-* seed list
-{:toc}
+- [Introduction](#Introduction)
+- [Data protection basics](#data-protection-basics)
+- [Scenario](#scenario)
+- [Key points](#key-points)
+- [Day to day data protection](#day-to-day-data-protection)
+- [Disposing of personal information](disposing-of-personal-information)
+- [What to do if there is a personal data breach](#what-to-do-if-there-is-a-personal-data-breach)
+- [Breaching incidents](#breaching-incidents)
+- [Reporting the breach](#reporting-the-breach)
+- [Privacy notices](#privacy-notices)
+- [Summary](#summary)
+- [Privacy by design and by default](#privacy-by-design-and-by-default)
+- [Test your knowledge](#test-your-knowledge)
 
-## 1. Introduction
+## Introduction
 
 ### Why is data protection important?
 In its role as an educational provider, an employer, and a research-intensive organization, the University holds and processes a significant volume of personal data relating to numerous cohorts of individuals. Everybody who processes personal data has a responsibility to do so safely and responsibly. If the University were to lose or otherwise compromise someone's personal data, it could not only have a serious effect on the rights and privacy of the individual but also on the reputation of the University as a safe partner for data sharing and use.
@@ -23,7 +34,7 @@ In its role as an educational provider, an employer, and a research-intensive or
 ### Why complete the learning?
 It is important that everybody remains focused on how we use and protect data. You are required to complete this training within 4 weeks of joining the University and on an annual basis thereafter. If you do not complete the training, your access to the University's systems may be suspended. Completing the learning is a key step in ensuring that the University remains compliant with all data protection legislation, and that we keep our data secure.
 
-## 2. Data protection basics
+##  Data protection basics
 
 ### What is data protection?
 Let’s start by making sure that we all have a shared understanding of what is meant by data protection and how we define personal data. We will then move on to review the six principles of data protection, consider individuals’ rights, and finally, learn who enforces data protection in the UK.
@@ -415,14 +426,14 @@ Remember you can return to this learning and use it as reference to make sure th
 
 ## Sharing personal information
 
-Examples of sharing
+### Examples of sharing
 
 As data sharing is one of the main reasons for personal data breaches, it’s important that you understand the scope of data sharing.
 Sharing data within the University for administrative and business functions is covered by our Staff and Student Privacy Notices.
 As long as you have an agreement in place and the research participants understand how their data will be used then you can share data collaboratively with other research partners.
 We cannot share data about our students with their parents or family unless the student tells us that it is OK.
 
-## How can I share data safely?
+### How can I share data safely?
 
 Even when you are sharing data internally it is important to make sure that you do it safely. Generally, it is best to share access to the data (for example via a OneDrive or SharePoint folder) than to send data by email.
 
@@ -430,7 +441,7 @@ If you do have to share data via email be careful to check that you are sending 
 
 Familiarise yourself with the process for reporting an incident where data might have gone to the wrong recipient.
 
-## How can I share data lawfully?
+### How can I share data lawfully?
 
 As when collecting data, you need to have a lawful basis for sharing data. Some sharing is already covered in the Staff and Student Privacy Notices which can be found on the University's Data Protection website.
 
@@ -438,7 +449,7 @@ The Notices also cover the sharing of data within the University where it is nec
 
 We must not share any data about our students with individuals claiming to be their family members of friends without the student's consent. Speak with your line manger if you have any questions or concerns.
 
-## Before you share
+### Before you share
 
 Even when you are sharing data within the University it is important to consider the potential implications, especially if you are sharing special category data.
 
@@ -454,13 +465,13 @@ Before you share, check the following:
 
 If the information that has been shared is found to have been inaccurate or if it changes, make sure you tell those you have already shared it with.
 
-## Data Sharing Agreements
+### Data Sharing Agreements
 
 These are used when data is being shared outside the University and where the recipient will also be a Data Controller; this means that they can decide themselves how the data will be used (and possibly re-shared with other recipients).
 
 If you are conducting research with an external partner you might need to have a Data Sharing Agreement in place. A template can be found on the University's Data Protection website.
 
-## Data Processing Agreements
+### Data Processing Agreements
 
 These are used when the recipient of the data will be a Data Processor; this means that they can only process the data according to our instructions. A Data Processing Agreement sets out what the Processor can do with the data, how they must store it, any expectations about their use of a third-party processor and when they must return the data. A Processor has some obligations under the law, but the Data Controller (the University) has overall responsibility for ensuring that the data remains safe.
 
@@ -470,7 +481,7 @@ You can share data within the University where it is necessary for our administr
 
 In most circumstances you need to make the individual aware that the sharing is taking place (normally via a privacy notice), although there are some exceptions where the data is being shared with law enforcement agencies or where the person is at risk. Speak with the DPO if you receive such a request.
 
-## Key points
+### Key points
 
 - Remember that accidentally emailing data to the wrong person is one of the major causes of security incidents.
 - Make sure that you have an appropriate agreement in place before you share data with an external party.
@@ -510,12 +521,12 @@ The core principles of the DPIA process can be integrated with existing project 
 
 There is more detailed information on the Information Commissioner’s Office website (www.ico.org.uk).
 
-## Key points
+### Key points
 
 It's important to know the measures in place to protect personal and sensitive data.
 
 Furthermore, you might want to revisit this section later should you become involved in new projects, or if you think that some existing ways of working with data could be improved.
 
-### Test your knowledge
+## Test your knowledge
 The following questions are based on what we have covered in this module. Please complete this question in the microsfot form and send the screenshot of the answers where you have gained the pass mark of 80% and over.
 [Data Protection knowledge Test](https://forms.office.com/e/FEtEEDhff2)
