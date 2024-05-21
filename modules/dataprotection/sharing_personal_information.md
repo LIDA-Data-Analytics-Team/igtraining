@@ -2,7 +2,7 @@
 layout: default
 title: Sharing personal information
 parent: Data Protection
-grand_parent: IG Training
+grand_parent: Modules
 nav_order: 7
 ---
 
