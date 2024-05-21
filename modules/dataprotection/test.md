@@ -2,7 +2,7 @@
 layout: default
 title: Test
 parent: Data Protection
-grand_parent: IG Training
+grand_parent: Modules
 nav_order: 9
 ---
 
