@@ -3,7 +3,7 @@ layout: default
 title: Information Security
 parent: IG Training
 nav_order: 2
-has-children: true
+has_children: true
 ---
 
 # Information Security
