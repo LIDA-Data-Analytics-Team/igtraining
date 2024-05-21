@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Day to day data protection
 parent: Data Protection
 grand_parent: IG Training
