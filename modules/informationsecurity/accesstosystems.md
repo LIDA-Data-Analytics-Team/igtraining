@@ -2,7 +2,7 @@
 layout: default
 title: Access to Systems
 parent: Information Security
-grand_parent: IG Training
+grand_parent: Modules
 nav_order: 3
 ---
 
