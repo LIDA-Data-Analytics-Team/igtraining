@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Privacy by design and by default
 parent: Data Protection
 grand_parent: IG Training
